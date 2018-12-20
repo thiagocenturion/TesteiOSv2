@@ -14,6 +14,7 @@
 		239050F021CBBDCE00CDD6F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 239050EE21CBBDCE00CDD6F1 /* LaunchScreen.storyboard */; };
 		239050FB21CBBDCE00CDD6F1 /* SantanderTesteV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 239050FA21CBBDCE00CDD6F1 /* SantanderTesteV2Tests.swift */; };
 		2390510621CBBDCE00CDD6F1 /* SantanderTesteV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2390510521CBBDCE00CDD6F1 /* SantanderTesteV2UITests.swift */; };
+		2390511421CBBE5300CDD6F1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2390511321CBBE5300CDD6F1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2390510121CBBDCE00CDD6F1 /* SantanderTesteV2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SantanderTesteV2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2390510521CBBDCE00CDD6F1 /* SantanderTesteV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantanderTesteV2UITests.swift; sourceTree = "<group>"; };
 		2390510721CBBDCE00CDD6F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2390511321CBBE5300CDD6F1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		239050D921CBBDCD00CDD6F1 = {
 			isa = PBXGroup;
 			children = (
+				2390511321CBBE5300CDD6F1 /* README.md */,
 				239050E421CBBDCD00CDD6F1 /* SantanderTesteV2 */,
 				239050F921CBBDCE00CDD6F1 /* SantanderTesteV2Tests */,
 				2390510421CBBDCE00CDD6F1 /* SantanderTesteV2UITests */,
@@ -231,6 +234,7 @@
 			files = (
 				239050F021CBBDCE00CDD6F1 /* LaunchScreen.storyboard in Resources */,
 				239050ED21CBBDCE00CDD6F1 /* Assets.xcassets in Resources */,
+				2390511421CBBE5300CDD6F1 /* README.md in Resources */,
 				239050EB21CBBDCD00CDD6F1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

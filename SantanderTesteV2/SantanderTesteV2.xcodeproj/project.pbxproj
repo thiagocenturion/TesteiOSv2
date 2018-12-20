@@ -117,6 +117,7 @@
 		239050E421CBBDCD00CDD6F1 /* SantanderTesteV2 */ = {
 			isa = PBXGroup;
 			children = (
+				2390511521CC078900CDD6F1 /* Scenes */,
 				239050E521CBBDCD00CDD6F1 /* AppDelegate.swift */,
 				239050E721CBBDCD00CDD6F1 /* ViewController.swift */,
 				239050E921CBBDCD00CDD6F1 /* Main.storyboard */,
@@ -143,6 +144,13 @@
 				2390510721CBBDCE00CDD6F1 /* Info.plist */,
 			);
 			path = SantanderTesteV2UITests;
+			sourceTree = "<group>";
+		};
+		2390511521CC078900CDD6F1 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Scenes;
 			sourceTree = "<group>";
 		};
 		4B515E759B805B4DE38747E5 /* Frameworks */ = {
